@@ -1,4 +1,4 @@
-# Advent of code 2021
+# Advent of Code 2021
 
 Advent of Code is an Advent calendar of small programming puzzles.
 
